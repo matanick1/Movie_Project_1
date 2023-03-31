@@ -11,7 +11,7 @@ Aspen Simpson
 
 Project Description/Outline:
 
-Determining the top movies by profit, adjusted for inflation. Comparing
+  Determining the top movies by profit, adjusted for inflation. Comparing
 the United States to the rest of the world. 
 
 
@@ -19,25 +19,25 @@ the United States to the rest of the world.
 
 Research Questions to Answer:
 
-Could older movies compete with newer movies if we investigate the 
+  Could older movies compete with newer movies if we investigate the 
 inflation rate?
 
-Is there a large discrepancy between US and Worldwide results?
+  Is there a large discrepancy between US and Worldwide results?
 
 
 
 
 Rough Breakdown of Tasks: 
 
-Total Revenue of movies
+  Total Revenue of movies
 
-Production Budget of movies
+  Production Budget of movies
 
-Profit: Total revenue-production budget
+  Profit: Total revenue-production budget
 
-Inflation rate for every year in US $
-
-Visualization of US vs World
+  Inflation rate for every year in US $
+  
+  Visualization of US vs World
 
 
 
